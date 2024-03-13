@@ -9,7 +9,7 @@ export const useCounter = () => {
 
   const increaseBy = ( value:number) => {
     setCount( count + value );
-  }|
+  }
 
   return (
     // Properties
